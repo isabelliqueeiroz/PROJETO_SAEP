@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # ⚙️ AutoMecânica Pro
 
 ### Sistema de gerenciamento para oficina mecânica
